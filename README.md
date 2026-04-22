@@ -43,27 +43,30 @@ Some key findings from the analysis include:
 - User interaction patterns differ between platforms
 
 ## How to Run the Project
+
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/JiayueDu328/ACC102-Assignment.git
+```bash
+git clone https://github.com/JiayueDu328/ACC102-Assignment.git
+```
 
 Install required libraries:
-
+```bash
 pip install -r requirements.txt
+```
 
 Open the Jupyter Notebook:
-
 ```bash
 jupyter notebook analysis.ipynb
-Requirements
-Python 3.x
-pandas
-matplotlib
-seaborn
-Author
+```
 
+## Requirements
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+
+## Author
 Jiayue Du
 
-License
-
+## License
 This project is for academic purposes only.
