@@ -36,12 +36,13 @@ In this project, the following analyses were performed:
 - Visualization of engagement trends
 
 ## Key Insights
-Some key findings from the analysis include:
-- Engagement varies significantly across different platforms
-- Certain post types (e.g., video or carousel) tend to perform better
-- Posting time may influence engagement levels
-- User interaction patterns differ between platforms
 
+Some key findings from the analysis include:
+
+- Instagram shows the highest average engagement, while Twitter has the lowest
+- Video and poll posts generate more interaction compared to other content types
+- Engagement tends to be higher on weekends, especially Sunday
+- Posts with negative sentiment receive more engagement, possibly due to stronger emotional reactions
 ## How to Run the Project
 
 1. Clone this repository:
@@ -70,3 +71,7 @@ Jiayue Du
 
 ## License
 This project is for academic purposes only.
+
+## Note
+
+This project demonstrates basic data analysis, visualization, and interpretation skills using Python.
