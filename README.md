@@ -53,6 +53,7 @@ pip install -r requirements.txt
 
 Open the Jupyter Notebook:
 
+```bash
 jupyter notebook analysis.ipynb
 Requirements
 Python 3.x
@@ -60,6 +61,9 @@ pandas
 matplotlib
 seaborn
 Author
+
 Jiayue Du
+
 License
-This project is for academic purposes only
+
+This project is for academic purposes only.
