@@ -27,7 +27,7 @@ This dataset is suitable for:
 - `requirements.txt` — Required Python libraries
 - `README.md` — Project documentation
 
-## Analysis Tasks
+## Analysis Tasks 
 In this project, the following analyses were performed:
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
