@@ -1,5 +1,10 @@
 # ACC102 Assignment - Social Media Engagement Analysis
 
+## Problem & Target User
+**Business Problem**: Social media marketing teams often lack clear data-driven guidance on which platforms, content types, and posting schedules generate the highest user engagement (likes, comments, shares).  
+
+**Target Audience**: Social media marketers and content creators who want actionable insights to optimize content strategy, improve ROI, and allocate resources more effectively.
+
 ## Project Overview
 This project analyzes a social media engagement dataset to understand how different factors influence user engagement.
 
